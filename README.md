@@ -4,14 +4,19 @@ I'm a data enthusiast who applies Machine Learning to create better solutions fo
 🌱 My projects fall into the following categories:
 
 Machine learning angorithm implement
+
 R shiny implement
 
 🎒My academic expreiences:
+
   MS, Statistics and Machine Learning @ LiU
+  
   MS, Statistics @ NTHU
+  
   BS Quantitative Finance @ NTHU
 
 📫 How to reach me:
+
 Email: peijung36@gmail.com
 
 <!---
